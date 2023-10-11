@@ -16,28 +16,6 @@ function Banner() {
           <p>Descubra os sabores mais deliciosos da cidade.</p>
         </Carousel.Caption>
       </Carousel.Item>
-      {/* <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src="imagem2.jpg"
-          alt="Segundo slide"
-        />
-        <Carousel.Caption>
-          <h3>Variedade de Sabores</h3>
-          <p>Escolha entre uma ampla gama de sabores de sorvetes deliciosos.</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src="imagem3.jpg"
-          alt="Terceiro slide"
-        />
-        <Carousel.Caption>
-          <h3>Promoção Especial</h3>
-          <p>Confira nossa oferta do dia e economize em sua sobremesa favorita.</p>
-        </Carousel.Caption>
-      </Carousel.Item>  */}
     </Carousel>
   );
 }
